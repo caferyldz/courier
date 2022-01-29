@@ -23,6 +23,7 @@ goto /target director and run
 java -jar courier-0.0.1-SNAPSHOT.jar
 ```
 
-For Test
--Open your browser
--enter url http://localhost:8080/api/courier/swagger-ui/#/
+## For Test, open your browser then paste below url to your browser
+```shell
+http://localhost:8080/api/courier/swagger-ui/#/
+```
